@@ -14,6 +14,7 @@ Completed:
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url)
 
 In progress:
+- CompTIA Network+ (Estimated: July 2024)
 - CompTIA Security+ (Estimated: August 2024)
 - CompTIA PenTest+ (Estimated: September 2024)
 - CompTIA CySA+ (Estimated: October 2024)
