@@ -1,22 +1,22 @@
-<h1>Hi, I'm Fred!
+<h1>Hey, I'm Fred!
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Active Directory Lab</b>
-  - [](link here)
+  - In Progress
 - <b>SOC & Honeypot</b>
-  - [](link here)
+  - In Progress
 
 <h2>📜 Certifications</h2>
 
-Note: All certifications are estimated to be completed by December 2024 as part of WGU's Master of Science in Cybersecurity and Information Assurance program, in which I am currently enrolled!
-- [CISM](link here)
-- [CompTIA CASP+](link here)
-- [CompTIA CySA+)](link here)
-- [CompTIA Security+](link here)
-- [CompTIA PenTest+](link here)
-- [CompTIA A+](link here)
-- [ISC2 Certified in Cybersecurity](link here)
+Completed:
+- CompTIA A+
+- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url)
+
+In Progress:
+- CompTIA Security+ (Estimated: August 2024)
+- CompTIA PenTest+ (Estimated: September 2024)
+- CompTIA CySA+ (Estimated: October 2024)
 
 <h2> 🤳 Connect with me!</h2>
 
