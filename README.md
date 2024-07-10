@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Active Directory Lab</b>
-  - In Progress
+  - In progress
 - <b>SOC & Honeypot</b>
-  - In Progress
+  - In progress
 
 <h2>📜 Certifications</h2>
 
@@ -13,7 +13,7 @@ Completed:
 - CompTIA A+
 - [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url)
 
-In Progress:
+In progress:
 - CompTIA Security+ (Estimated: August 2024)
 - CompTIA PenTest+ (Estimated: September 2024)
 - CompTIA CySA+ (Estimated: October 2024)
