@@ -2,22 +2,22 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
+- <b>DNS Sinkhole</b>
 - <b>Active Directory Lab</b>
-  - In progress
 - <b>SOC & Honeypot</b>
-  - In progress
 
 <h2>📜 Certifications</h2>
 
 Completed:
-- CompTIA A+
-- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url)
+- [CompTIA A+](https://www.credly.com/badges/c183d3cb-6f71-4313-abfd-2bae18629f53)
+- [ISC2 CC](https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url)
 
-In progress:
-- CompTIA Network+ (Estimated: July 2024)
+Currently studying for:
 - CompTIA Security+ (Estimated: August 2024)
-- CompTIA PenTest+ (Estimated: September 2024)
-- CompTIA CySA+ (Estimated: October 2024)
+
+Planned for the near future:
+- CompTIA CySA+
+- CompTIA Pentest+
 
 <h2> 🤳 Connect with me!</h2>
 
