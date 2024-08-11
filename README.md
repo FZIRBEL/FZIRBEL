@@ -1,4 +1,4 @@
-<h1>Hey, I'm Fred!
+<h1>Hi, I'm Fred!
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
