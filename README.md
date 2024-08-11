@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- <b>DNS Sinkhole</b>
+- <b>[DNS Sinkhole](https://github.com/FZIRBEL/DNS-Sinkhole)</b>
 - <b>Active Directory Lab</b>
 - <b>SOC & Honeypot</b>
 
