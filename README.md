@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>[DNS Sinkhole](https://github.com/FZIRBEL/DNS-Sinkhole)</b>
-- <b>Active Directory Lab</b>
+- <b>[Network Intrusion Detection System (NIDS) with Snort]</b>
 - <b>SOC & Honeypot</b>
 
 <h2>📜 Certifications</h2>
@@ -17,7 +17,7 @@ Currently studying for:
 
 Planned for the near future:
 - CompTIA CySA+ (Estimated: September 2024)
-- CompTIA Pentest+ (Estimated: October 2024)
+- CompTIA PenTest+ (Estimated: October 2024)
 
 <h2> 🤳 Connect with me!</h2>
 
