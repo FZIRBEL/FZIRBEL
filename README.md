@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>[DNS Sinkhole](https://github.com/FZIRBEL/DNS-Sinkhole)</b>
-- <b>[Network Intrusion Detection System (NIDS) with Snort]</b>
-- <b>SOC & Honeypot</b>
+- <b>[Active Directory Lab](https://tryhackme.com/r/room/winadbasics)</b>
+
 
 <h2>📜 Certifications</h2>
 
