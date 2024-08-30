@@ -9,14 +9,14 @@
 <h2>📜 Certifications</h2>
 
 Currently hold:
+- [CompTIA Security+](https://www.credly.com/badges/9283e8db-5d15-40a4-af14-5b44b5fcc42c)
 - [CompTIA A+](https://www.credly.com/badges/c183d3cb-6f71-4313-abfd-2bae18629f53)
 - [ISC2 CC](https://www.credly.com/badges/bca3d97b-0a51-4905-9804-8aa872f78404/public_url)
 
 Currently studying for:
-- CompTIA Security+ (Estimated: August 2024)
+- CompTIA CySA+ (Estimated: September 2024)
 
 Planned for the near future:
-- CompTIA CySA+ (Estimated: September 2024)
 - CompTIA PenTest+ (Estimated: October 2024)
 
 <h2> 🤳 Connect with me!</h2>
