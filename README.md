@@ -17,7 +17,7 @@ Currently studying for:
 - CompTIA CySA+ (Estimated: September 2024)
 
 Planned for the near future:
-- CompTIA PenTest+ (Estimated: October 2024)
+- CompTIA PenTest+ (Estimated: November 2024)
 
 <h2> 🤳 Connect with me!</h2>
 
