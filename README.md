@@ -1,6 +1,6 @@
 <h1>Hi, I'm Fred!
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>👨‍💻 Cybersecurity Projects/Labs</h2>
 
 - <b>[DNS Sinkhole](https://github.com/FZIRBEL/DNS-Sinkhole)</b>
 - <b>[Active Directory Lab](https://tryhackme.com/r/room/winadbasics)</b>
